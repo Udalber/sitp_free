@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SitpBogotaFree</string>
+    <string name="SitpBogota">Sitp bogota Libre</string>
+    <string name="title_sitp">Rutas Sitp</string>
+    <string name="text_title_filter">Filtra tu ruta deseada</string>
+    <string name="text_filter_name">Nombre de ruta</string>
+    <string name="text_filter_location">Ubicación bogota</string>
+    <string name="text_filter_locality">Numero de localidad</string>
+    <string name="text_filter_zone">Zona de Bogota</string>
+    <string name="btn_find_filter">buscar</string>
+    <string name="btn_clean_filter">Limpiar filtro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

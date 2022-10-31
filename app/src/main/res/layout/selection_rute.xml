@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="horizontal"
+    style="@style/Widget.AppCompat.Button.Borderless.Colored">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/nameRute"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:textAppearance="@android:style/TextAppearance"/>
+
+        <TextView
+            android:id="@+id/origenRute"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            />
+        <TextView
+            android:id="@+id/tipoOperacion"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"/>
+
+    </LinearLayout>
+
+</LinearLayout>
